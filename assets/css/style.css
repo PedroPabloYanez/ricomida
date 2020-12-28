@@ -1,0 +1,70 @@
+body *{
+	padding: 0;
+	border: 0;
+	font-family: 'Cabin', sans-serif;
+}
+.logo{
+	font-family: 'Lobster', cursive;
+	color: #ffffff;
+}
+.a{
+	font-weight: 10px;
+	font-size: 20px;
+}
+
+.text-right{
+	text-align: right;
+	justify-content: right;
+}
+
+hr {
+	display: block;
+	background: transparent;
+	width: 100%;
+	border: 1px solid gray;
+}
+
+.carousel-indicators{
+	top: 130px;
+	padding: 70px;
+	border-radius: 50px;
+}
+
+.carousel-indicators li{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: black;
+}
+
+.line{
+	text-decoration: underline;
+	text-underline-offset: 8px;
+	padding: 2px;
+}
+
+.paragraph{
+	margin-top: 30px;
+}
+
+.paragraph-second{
+	margin-top: 40px;
+}
+
+.bg{
+	height:400px;
+}
+
+.suscribe{
+	margin-top: 70px;
+}
+
+.frase{
+	display: inline-block;
+}
+
+.boton{
+
+	width: 200px;
+	height: 40px;
+}
